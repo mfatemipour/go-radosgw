@@ -1,4 +1,4 @@
-module github.com/QuentinPerez/go-radosgw
+module github.com/mfatemipour/go-radosgw
 
 go 1.12
 
